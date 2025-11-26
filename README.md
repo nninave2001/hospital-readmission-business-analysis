@@ -63,6 +63,10 @@ Excel | Google Sheets | Documentation & Visualization
 - Add cost-benefit projections
 - Create a hospital workflow model
 
+- ## Technical Supplement (Optional)
+A simple model demonstration notebook is included to show how predictive analytics can support business decision-making. The core focus of this project remains on business insights and recommendations.
+
+
 ---
 
 Created by: **Neha Ninave**  
