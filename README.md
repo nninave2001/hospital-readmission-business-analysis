@@ -1,31 +1,71 @@
+# Hospital Readmission Prediction
+### Business Analysis Case Study
 
-# 🏥 AI in Healthcare: Hospital Readmission Prediction
+## Project Overview
+This project explores how hospitals can identify high-risk diabetic patients who are likely to be readmitted within 30 days. The goal is to support better patient care, reduce operational burden, and lower healthcare costs.
 
-This project uses real-world EHR data to predict whether a diabetic patient will be readmitted to the hospital within 30 days. It demonstrates a full machine learning workflow, from data preprocessing to model evaluation and interpretation.
+## Business Problem
+Unplanned readmissions lead to:
+- Higher treatment costs
+- Bed and staff shortages
+- Lower patient satisfaction
+- Performance penalties
 
-## 📌 Features
-- Preprocessing of clinical and demographic variables
-- Training a Random Forest classifier
-- Evaluation using classification report and confusion matrix
-- Visualization of top predictive features
+## Objectives
+- Identify early risk indicators
+- Support proactive intervention planning
+- Improve discharge workflows
+- Enable data-driven decision making
 
-## 🧰 Tech Stack
-- Python, Pandas, Scikit-learn, Seaborn, Matplotlib
-- Jupyter Notebook
+## Data Considered
+- Patient demographics
+- Length of stay
+- Previous admissions
+- Medication changes
 
-## 🚀 How to Run
-1. Open the notebook in [Google Colab](https://colab.research.google.com/) or Jupyter.
-2. Replace the sample dataset with a larger dataset from sources like [Kaggle](https://www.kaggle.com/datasets/mathchi/diabetes-data-set).
-3. Run each cell in order.
+*Note: Publicly available sample datasets were used. No personal or confidential data.*
 
-## 📈 Sample Output
-- Confusion Matrix and F1-Score
-- Feature Importance Plot
+## Analysis Approach (Non-Technical)
+1. Defined business goals and success metrics
+2. Reviewed patient patterns and trends
+3. Categorized risk groups
+4. Interpreted findings for decision-making
 
-## 🧠 Next Steps
-- Add SHAP/LIME for interpretability
-- Try logistic regression or XGBoost
-- Deploy as a web app using Flask
+## Key Insights
+- Longer hospital stays increase readmission likelihood
+- Multiple past admissions are a strong risk indicator
+- Medication adjustments influence outcomes
+
+## Business Recommendations
+- Follow-up programs for high-risk patients
+- Post-discharge monitoring workflows
+- Patient education and support
+- Strengthened outpatient care
+
+## Outcome
+This analysis can help hospitals:
+- Reduce avoidable readmissions
+- Improve resource utilization
+- Enhance patient outcomes
+- Lower financial burden
+
+## My Role as a Business Analyst
+- Problem definition
+- Requirement understanding
+- Insight interpretation
+- Stakeholder-focused recommendations
+
+## Tools Used
+Excel | Google Sheets | Documentation & Visualization
+
+## Next Steps
+- Build a simple dashboard
+- Add cost-benefit projections
+- Create a hospital workflow model
 
 ---
-📬 Connect on [LinkedIn](https://www.linkedin.com/) | Made with ❤️ by a future healthcare data scientist
+
+Created by: **Neha Ninave**  
+**Business Analyst | Healthcare Analytics**  
+LinkedIn: 
+
